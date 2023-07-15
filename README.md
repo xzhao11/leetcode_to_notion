@@ -8,10 +8,9 @@ The template I have created and use is available [here](https://glacier-bell-9e7
 ## Prerequisites
 If you are using Google Colab (which I recommend), there are no prerequisites other than opening this [Google Colab notebook](https://colab.research.google.com/drive/1LSwHkBYbvZmieAkK7NABZdZ4iShFgpQR?usp=sharing), making a copy, and skipping to the "Setup" section.
 
-If you prefer to run the notebook in Jupyter Notebook, make sure you have the following prerequisites installed:
+If you prefer to run the notebook in Jupyter Notebook/VS code, make sure you have the following prerequisites installed:
 
 - Python 3.6 or above
-- Jupyter Notebook
 - Required Python libraries: requests, beautifulsoup4, pandas, notion (You can install them by running `pip3 install -r requirements.txt`)
 
 ## Setup
